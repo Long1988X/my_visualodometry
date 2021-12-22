@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pikachu/my_visualodometry/src/camera.cpp
+
+/home/pikachu/my_visualodometry/src/feature.cpp
+
+/home/pikachu/my_visualodometry/src/frame.cpp
+
+/home/pikachu/my_visualodometry/src/map.cpp
+
+/home/pikachu/my_visualodometry/src/mappoint.cpp
+
